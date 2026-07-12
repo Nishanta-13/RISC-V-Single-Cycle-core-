@@ -7,6 +7,7 @@ Implementation of a 32-bit RISC-V Single Cycle Processor in Verilog including AL
 This project implements a 32-bit RISC-V Single Cycle Processor using Verilog HDL. 
 The processor executes each instruction in a single clock cycle and demonstrates the basic architecture of a RISC-V CPU including datapath and control logic.
 
+
 The design was simulated using Icarus Verilog and GTKWave.
 
 ## Features
